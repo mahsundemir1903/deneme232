@@ -4,4 +4,8 @@ while 1:
 <<<<<<< HEAD
     print("aaa")
 =======
+    print("bbba")
+    print("kaan")
+
+    asasas
 >>>>>>> 67ab9687a156aa4ec8d93266a20eded6d2c5db12
