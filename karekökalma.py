@@ -3,5 +3,4 @@ while 1:
     print(int(a)**(1/2))
     print("aaa")
     print("bbb")    print("bbb")
-    print("kaan")
-    print("baki")
+    print("bbb")
