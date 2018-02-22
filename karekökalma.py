@@ -8,4 +8,5 @@ while 1:
     print("kaan")
 
     asasas
+adaa
 >>>>>>> 67ab9687a156aa4ec8d93266a20eded6d2c5db12
